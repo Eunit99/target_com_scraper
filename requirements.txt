@@ -1,0 +1,11 @@
+# Feel free to add your Python dependencies below. For formatting guidelines, see:
+# https://pip.pypa.io/en/latest/reference/requirements-file-format/
+
+apify < 3.0
+selenium~=4.27.1
+beautifulsoup4==4.12.3
+bs4==0.0.2
+selenium-wire==5.1.0
+python-dotenv~=1.0.1
+blinker==1.7.0
+webdriver-manager==4.0.2
